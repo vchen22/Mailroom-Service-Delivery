@@ -1,6 +1,6 @@
 Mailroom Delivery Service Hashmaps and Queues
 
-Description of Program: In this PA, I am creating a Mailroom Delivery Service
+Description of Program: I am creating a Mailroom Delivery Service
 that handles two types of items, letter mails and packages, using using 
 Hashmaps and queues. Hashmaps organizes all the packages/mail to the same 
 zipcode so it can be delivered. Queues are organize the individual packages
